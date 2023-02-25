@@ -8,5 +8,5 @@ Shell scripting topics
 2. Comments
 3. Loops
 4. Function
-5. Redirectores
+5. Redirectors
 ...
