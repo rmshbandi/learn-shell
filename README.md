@@ -1,7 +1,7 @@
 # learn-shell
 
 
-Shell scripting topics
+# Shell scripting topics
 
 ...
 1. Printing
