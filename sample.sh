@@ -1,3 +1,3 @@
 a=10;
 
-The value of a is "$a";
+sudo The value of a is "$a";
