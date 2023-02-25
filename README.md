@@ -9,5 +9,5 @@
 3. Loops
 4. Function
 5. Redirectors
-6. $(10+20)
+6. ${10+20}
 ...
